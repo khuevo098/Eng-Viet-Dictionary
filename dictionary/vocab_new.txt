@@ -1,0 +1,104 @@
+----------DICTIONARY ENGLISH - VIETNAMESE----------
+Number of vocabularies: 100
+
+
+maximum: toi da
+electrical: dien tu
+period: giai doan
+recent: gan day
+live: truc tiep
+scared: so hai
+vegetable: rau xanh
+choice: su lua chon
+capital: thu do
+various: khac nhau
+cute: dang yeu, de thuong
+basic: co ban
+similar: tuong tu
+born: sinh ra
+political: thuoc ve chinh tri
+strong: manh(!= weak)
+blue: mau xanh nuoc bien
+relative: moi quan he
+outside: ben ngoai
+pink: mau hong
+master: chu
+minimum: toi thieu
+willing: san long(willing to)
+difficult: kho khan
+expensive: mac, dat(!=cheap)
+united: thong nhat
+healthy: suc khoe, khoe manh
+change: thay doi
+inside: ben trong
+impossible: bat kha thi
+financial: thuoc ve tai chinh
+select: lua chon
+upset: kho chiu
+mental: tinh than
+known: duoc biet den (known as)
+idea: y tuong
+significant: co y nghia
+head: cai dau
+several: nhieu
+express: bay to
+beginning: khoi dau
+animal: dong vat
+salt: muoi
+budget: ngan sach
+future: tuong lai
+party: bua tiec
+savings: tiet kiem
+responsible: co trach nhiem
+huge: khong lo, to lon
+available: co san
+red: mau do
+every: moi
+useful: huu ich
+emotional: cam xuc
+mood: cam xuc
+interesting: thu vi
+plus: them, cong
+large: rong, lon
+helpful: huu ich
+popular: pho bien
+intelligent: thong minh(!=stupid)
+shot: ban
+front: phia truoc
+mean: ban tien
+medium: vua phai
+standard: tieu chuan
+technical: thuoc ve ky thuat
+stock: co phan
+pregnant: mang thai
+feeling: cam xuc
+medical: y te
+actual: that su
+action: hoat dong
+material: vat chat
+additional: them
+successful: thanh cong
+historical: thuoc ve lich su
+plastic: nhua
+federal: lien bang
+serious: nghiem tuc
+background: nen
+important: quan trong
+minute: phut
+hot: nong
+traditional: truyen thong
+chicken: con ga
+different: khac nhau
+chance: co hoi
+wonderful: tuyet voi
+happy: hanh phuc
+novel: tieu thuyet
+rare: quy hiem
+entire: toan bo
+old: cu
+character: tinh cach
+glass: thuy tinh
+plenty: nhieu
+poor: ngheo(!=rich)
+connect: ket noi
+car: xe hoi

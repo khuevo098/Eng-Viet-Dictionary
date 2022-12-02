@@ -1,0 +1,101 @@
+different: khac nhau
+important: quan trong
+every: moi
+large: rong, lon
+available: co san
+popular: pho bien
+basic: co ban
+known: duoc biet den (known as)
+various: khac nhau
+difficult: kho khan
+several: nhieu
+united: thong nhat
+historical: thuoc ve lich su
+hot: nong
+useful: huu ich
+mental: tinh than
+scared: so hai
+additional: them
+emotional: cam xuc
+old: cu
+political: thuoc ve chinh tri
+similar: tuong tu
+healthy: suc khoe, khoe manh
+financial: thuoc ve tai chinh
+medical: y te
+traditional: truyen thong
+federal: lien bang
+entire: toan bo
+strong: manh(!= weak)
+actual: that su
+significant: co y nghia
+successful: thanh cong
+electrical: dien tu
+expensive: mac, dat(!=cheap)
+pregnant: mang thai
+intelligent: thong minh(!=stupid)
+interesting: thu vi
+poor: ngheo(!=rich)
+happy: hanh phuc
+responsible: co trach nhiem
+cute: dang yeu, de thuong
+helpful: huu ich
+recent: gan day
+willing: san long(willing to)
+wonderful: tuyet voi
+impossible: bat kha thi
+serious: nghiem tuc
+huge: khong lo, to lon
+rare: quy hiem
+technical: thuoc ve ky thuat
+future: tuong lai
+action: hoat dong
+live: truc tiep
+period: giai doan
+mean: ban tien
+stock: co phan
+change: thay doi
+chance: co hoi
+beginning: khoi dau
+upset: kho chiu
+chicken: con ga
+head: cai dau
+material: vat chat
+salt: muoi
+car: xe hoi
+inside: ben trong
+outside: ben ngoai
+standard: tieu chuan
+medium: vua phai
+choice: su lua chon
+born: sinh ra
+capital: thu do
+shot: ban
+front: phia truoc
+plastic: nhua
+express: bay to
+mood: cam xuc
+feeling: cam xuc
+plus: them, cong
+savings: tiet kiem
+animal: dong vat
+budget: ngan sach
+minute: phut
+character: tinh cach
+maximum: toi da
+novel: tieu thuyet
+plenty: nhieu
+select: lua chon
+background: nen
+glass: thuy tinh
+master: chu
+red: mau do
+blue: mau xanh nuoc bien
+pink: mau hong
+vegetable: rau xanh
+idea: y tuong
+party: bua tiec
+relative: moi quan he
+connect: ket noi
+minimum: toi thieu
+#
